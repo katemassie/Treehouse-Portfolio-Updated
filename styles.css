@@ -81,8 +81,12 @@ header .profile-image {
   filter: grayscale(100%);
 /************************/
 
-/* Code outlined above from http://thenewcode.com/532/Convert-Images-To-Black-And-White-With-CSS
-referenced March 24, 2016 */
+/* Code outlined above from Dudley Storey
+http://thenewcode.com/
+direct link http://thenewcode.com/532/Convert-Images-To-Black-And-White-With-CSS
+referenced March 24, 2016 
+used under a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Canada License (CC BY-NC-SA 2.5 CA)
+https://creativecommons.org/licenses/by-nc-sa/2.5/ca/  */
 
 }
 header .profile-image:hover {
